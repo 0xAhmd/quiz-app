@@ -1,4 +1,4 @@
-Quiz App
+#Quiz App
 
 This is a simple Quiz App written in Python that allows users to select a category, difficulty level, and number of questions. The app features hardcoded quiz data and provides immediate feedback on the answers.
 
