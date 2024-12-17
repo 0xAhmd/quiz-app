@@ -25,5 +25,4 @@ open your terminal and write this command
 
 ```
 python quiz_app.py
-
 ```
